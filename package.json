@@ -1,0 +1,18 @@
+{
+  "name": "discord-widget-setter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One-off TypeScript script that sets a Discord widgets-v2 identity profile.",
+  "scripts": {
+    "deploy": "tsx set-widget.ts",
+    "dry": "tsx set-widget.ts --dry-run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "dotenv": "^16.4.7",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
