@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://doughmination.is-a.dev/images/favicon/avatar.png" alt="Clove Twilight avatar" height="100">
+<img src="https://doughmination.is-a.dev/assets/favicon/avatar.png" alt="Clove Twilight avatar" height="100">
 
 # Discord Widget-v2 Script
 </div>
