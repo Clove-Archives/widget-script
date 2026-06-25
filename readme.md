@@ -12,7 +12,7 @@ Node 20+ only
 
 First of all, you need to follow <a href="https://chloecinders.com/blog/discord-widgets">this guide to Discord V2 Widgets</a>, making sure that the bot is installed BEFORE you run this script!
 
-As the owner of the app, you can add it to your user directly, however I reccomend following the auth Chloe points out. (ie https://discord.com/oauth2/authorize?client_id=198622483471925248&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.com&scope=openid+sdk.social_layer)
+As the owner of the app, you can add it to your user directly, however I reccomend following the auth Chloe points out. (ie https://discord.com/oauth2/authorize?client_id=198622483471925248&response_type=token&redirect_uri=https%3A%2F%2Fdiscord.com&scope=openid+sdk.social_layer)
 
 ### Setting up the enviroment variables needed:
 
